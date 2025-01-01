@@ -1,5 +1,5 @@
 # mycobot_ros
-***This repo is a work in progress! The files are individually imported from Linux, not an accurate representation of the file hierarchy***
+***This repo is a work in progress! The files are individually imported from Linux, not an accurate representation of the file hierarchy. This will be updated when the final tracking program is finished.***
 
 ## Overview 
 
