@@ -1,5 +1,5 @@
 # mycobot_ros
-***This repo is a work in progress! The files are individually imported from Linux, not an accurate representation of the file hierarchy. This will be updated when the final tracking program is finished.***
+***This repo is a work in progress! The files are individually imported from Linux, not an accurate representation of the file hierarchy. This will be updated once the final tracking program is finished.***
 
 ## Overview 
 
@@ -15,5 +15,11 @@ panini_masterfollower_1.py is the main script for tracking the marker.
 panini_masterfollower_2.py is a work in progress and derived from panini_masterfollower_1.py
 - this is the main script being developed.
 - Current steps involve using kinematic transformations to accurately "look" at the Aruco Marker
+
+
+
+
+
+https://github.com/user-attachments/assets/39126256-b56e-46fe-a66f-7f5b7faa2112
 
 
